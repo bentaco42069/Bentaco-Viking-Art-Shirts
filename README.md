@@ -44,6 +44,14 @@ When you order, just tell me: **the design # · your size · shirt color · any 
 ### #6 — Valkyrie Armor
 <img src="images/06-valkyrie-armor.jpg" alt="Design 6" width="100%">
 
+<h2 align="center">🖼️ See All 74 Designs</h2>
+
+<p align="center">
+  <a href="GALLERY.md"><b>🖼️ &nbsp; BROWSE THE FULL GALLERY &nbsp; →</b></a>
+</p>
+
+<p align="center"><sub>Every design, numbered — find your favorite, then order by its #.</sub></p>
+
 ---
 
 ## 👕 Prices
