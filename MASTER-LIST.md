@@ -1,81 +1,81 @@
-# 📋 MASTER LIST — number → design (Cole's reference)
+# 📋 MASTER LIST — number → your REAL picture name
 
-Buyers order by number. This maps each # to your real design + original file.
+Buyers order by number on the site. This maps each # to the **real name** of your picture file.
 
 
-| # | Name shown on page | Original file |
-|:--|:--|:--|
-| 1 | Odin & Thor: Storm Surf | (featured) |
-| 2 | Odin the All-Seeing | (featured) |
-| 3 | Ragnarök Reborn | (featured) |
-| 4 | Thor's Thunderous Fury | (featured) |
-| 5 | Viking Raiding Party | (featured) |
-| 6 | Valkyrie Armor | (featured) |
-| 7 | Advanced System Options | Advanced System Options Triple branded and Max resolution.png |
-| 8 | Advanced Settings | Advanced settings Triple branded and Max resolution.png |
-| 9 | All Games | All Games  triple branded and Max resolution.png |
-| 10 | Appearance Odin's All-Seeing Eye | Appearance Odin's all seeing eye Leave here.png |
-| 11 | Archive Downloader | Archive downloader Triple branded And Max resolution.png |
-| 12 | Back Up OS | Back up OS Triple branded and Max resolution.png |
-| 13 | Bentaco's RAGNAROK BTOS Splash | Bentacos Ragnarok BT OS Splash Triple branded And Max resolution.png |
-| 14 | Blood Eagle Icon | Blood Eagle icon Leave here.png |
-| 15 | Boobies Volva of Truth Icon | Boobies Volva of Truth. icon Leave here.png |
-| 16 | Boobies | Boobies. Leave here.png |
-| 17 | Collection | Collection RAGNAROK RETROROK Triple branded and Max resolution.png |
-| 18 | Controller | Controller Triple branded and Max resolution.png |
-| 19 | ES Boot Screen | ES Boot Screen Triple branded and Max resolution.png |
-| 20 | Emulators | Emulators  Triple branded and Max resolution.png |
-| 21 | Firefox Claude AI Connector Pro | FIREFOX Claude AI Connector PRO Leave here.png |
-| 22 | Favorites | Favorites Triple branded and Max resolution.png |
-| 23 | File Manager | File manager Triple branded and Max resolution.png |
-| 24 | Filter Games by Text | Filter games by text Triple branded and Max resolution.png |
-| 25 | Gallery | Gallery Triple branded and Max resolution.png |
-| 26 | Game List View Style | Game list view style Triple branded and Max resolution.png |
-| 27 | Game Settings | Game settings Triple branded and Max resolution.png |
-| 28 | Hot Keys | Hot keys Leave here.png |
-| 29 | Info | Info Triple branded and Max resolution.png |
-| 30 | Install ROM Directories and BIOS | Install ROM directories and BIOS Triple branded and Max resolution.png |
-| 31 | Install RAGNAROK over eMMC | Install Ragnarok over EMMC Triple branded and Max brightness.png |
-| 32 | Jump to the Game Beginning with the Letter | Jump to the game beginning with the letter Triple branded and Max resolution.png |
-| 33 | Kodi | Kodi Triple branded and Max resolution.png |
-| 34 | Last Played | Last Played Triple branded and Max resolution.png |
-| 35 | Library | Library Triple branded and Max resolution.png |
-| 36 | Media Player | Media Player Triple branded and Max resolution.png |
-| 37 | Music Player | Music player Triple branded and Max resolution.png |
-| 38 | Network | Network Triple branded and Max resolution.png |
-| 39 | Odin Icon | Odin Icon Leave here.ico |
-| 40 | Offline Update | Offline update Triple branded and Max resolution.png |
-| 41 | Other Filters | Other filters Triple branded and Max resolution.png |
-| 42 | Performance Manager | Performance Manager Triple branded and Max resolution.png |
-| 43 | Plane Mode | Plane Mode Triple branded and Max resolution.png |
-| 44 | Restore OS | RESTORE OS Triple Branded and Max resolution.png |
-| 45 | RAGNAROK's Rage | Ragnarok's rage Triple branded and Max resolution.png |
-| 46 | Remove Files | Remove files Triple branded and Max resolution.png |
-| 47 | Restart Frontend | Restart frontend Triple branded and Max resolution.png |
-| 48 | Retro Arc 64-bit | Retro Arc 64 bit Triple branded and Max resolution.png |
-| 49 | Retro Arc Achievements | Retro Arc achievements Triple branded and Max resolution.png |
-| 50 | Retro Arc 32-bit | RetroARC 32 bit Triple branded and Max resolution.png |
-| 51 | RetroROK Splash | Retrorok Splash triple branded and Max Resolution.png |
-| 52 | RetroROK Icon | Retrorok icon Triple branded and Max resolution.png |
-| 53 | Ride of the Valkyries | Ride of the Valkyries Triple branded and Max resolution.png |
-| 54 | Scrapper | Scrapper Triple branded and Max resolution.png |
-| 55 | Shutdown | Shutdown Triple Branded and Max Resolution.png |
-| 56 | Sliders and Manual Control | Sliders and manual control Triple branded and Max resolution.png |
-| 57 | Sort Games by | Sort games by Triple branded and Max resolution.png |
-| 58 | Sound | Sound RAGNAROK RETROROK Triple Branded and Max Resolution.png |
-| 59 | Sutor's Flame | Sutor's Flame Triple branded and Max resolution..png |
-| 60 | System Settings | System settings Triple branded and Max resolution.png |
-| 61 | TV Calibrate | TV calibrate Triple branded and Max resolution.png |
-| 62 | Text Recognition Odin's All-Seeing Eye | Text recognition odin's all seeing eye.png |
-| 63 | Thor the Calibrator Icon | Thor the Calibrator Icon Leave here.png |
-| 64 | Thor the Calibrator | Thor the Calibrator Triple branded and Max resolution..png |
-| 65 | Tools | Tools Triple branded and Max Resolution.png |
-| 66 | UI | UI Triple branded and Max resolution.png |
-| 67 | User Manual | User Manual Triple branded and Max resolution..png |
-| 68 | Valhalla Mode | Valhalla mode Triple branded and Max resolution.png |
-| 69 | View Customization | View customization Triple branded and Max resolution..png |
-| 70 | Viking Rage | Viking Rage Triple branded And Max resolution.png |
-| 71 | Input | input Triple branded and Max resolution.png |
-| 72 | Quit | quit Triple branded and Max resolution.png |
-| 73 | Suspend | suspend Triple branded and Max resolution..png |
-| 74 | Updates | updates Triple branded and Max resolution..png |
+| # | Real picture name |
+|:--|:--|
+| 1 | RetroARC theme Triple branded and Max resolution |
+| 2 | Odin's all seeing Eye Triple branded and Max resolution |
+| 3 | Restart system Triple branded and Max resolution |
+| 4 | Thor's thunderous fury Triple branded and Max resolution. |
+| 5 | Viking raiding party Triple branded and Max resolution |
+| 6 | Valkyrie Armor Triple branded and Max resolution Leave here |
+| 7 | Advanced System Options Triple branded and Max resolution |
+| 8 | Advanced settings Triple branded and Max resolution |
+| 9 | All Games  triple branded and Max resolution |
+| 10 | Appearance Odin's all seeing eye Leave here |
+| 11 | Archive downloader Triple branded And Max resolution |
+| 12 | Back up OS Triple branded and Max resolution |
+| 13 | Bentacos Ragnarok BT OS Splash Triple branded And Max resolution |
+| 14 | Blood Eagle icon Leave here |
+| 15 | Boobies Volva of Truth. icon Leave here |
+| 16 | Viking Boobies Sign Leave here |
+| 17 | Collection RAGNAROK RETROROK Triple branded and Max resolution |
+| 18 | Controller Triple branded and Max resolution |
+| 19 | ES Boot Screen Triple branded and Max resolution |
+| 20 | Emulators  Triple branded and Max resolution |
+| 21 | FIREFOX Claude AI Connector PRO Leave here |
+| 22 | Favorites Triple branded and Max resolution |
+| 23 | File manager Triple branded and Max resolution |
+| 24 | Filter games by text Triple branded and Max resolution |
+| 25 | Gallery Triple branded and Max resolution |
+| 26 | Game list view style Triple branded and Max resolution |
+| 27 | Game settings Triple branded and Max resolution |
+| 28 | Hot keys Leave here |
+| 29 | Info Triple branded and Max resolution |
+| 30 | Install ROM directories and BIOS Triple branded and Max resolution |
+| 31 | Install Ragnarok over EMMC Triple branded and Max brightness |
+| 32 | Jump to the game beginning with the letter Triple branded and Max resolution |
+| 33 | Kodi Triple branded and Max resolution |
+| 34 | Last Played Triple branded and Max resolution |
+| 35 | Library Triple branded and Max resolution |
+| 36 | Media Player Triple branded and Max resolution |
+| 37 | Music player Triple branded and Max resolution |
+| 38 | Network Triple branded and Max resolution |
+| 39 | Odin Icon Leave here |
+| 40 | Offline update Triple branded and Max resolution |
+| 41 | Other filters Triple branded and Max resolution |
+| 42 | Performance Manager Triple branded and Max resolution |
+| 43 | Plane Mode Triple branded and Max resolution |
+| 44 | RESTORE OS Triple Branded and Max resolution |
+| 45 | Ragnarok's rage Triple branded and Max resolution |
+| 46 | Remove files Triple branded and Max resolution |
+| 47 | Restart frontend Triple branded and Max resolution |
+| 48 | Retro Arc 64 bit Triple branded and Max resolution |
+| 49 | Retro Arc achievements Triple branded and Max resolution |
+| 50 | RetroARC 32 bit Triple branded and Max resolution |
+| 51 | Retrorok Splash triple branded and Max Resolution |
+| 52 | Retrorok icon Triple branded and Max resolution |
+| 53 | Ride of the Valkyries Triple branded and Max resolution |
+| 54 | Scrapper Triple branded and Max resolution |
+| 55 | Shutdown Triple Branded and Max Resolution |
+| 56 | Sliders and manual control Triple branded and Max resolution |
+| 57 | Sort games by Triple branded and Max resolution |
+| 58 | Sound RAGNAROK RETROROK Triple Branded and Max Resolution |
+| 59 | Sutor's Flame Triple branded and Max resolution. |
+| 60 | System settings Triple branded and Max resolution |
+| 61 | TV calibrate Triple branded and Max resolution |
+| 62 | Text recognition odin's all seeing eye |
+| 63 | Thor the Calibrator Icon Leave here |
+| 64 | Thor the Calibrator Triple branded and Max resolution. |
+| 65 | Tools Triple branded and Max Resolution |
+| 66 | UI Triple branded and Max resolution |
+| 67 | User Manual Triple branded and Max resolution. |
+| 68 | Valhalla mode Triple branded and Max resolution |
+| 69 | View customization Triple branded and Max resolution. |
+| 70 | Viking Rage Triple branded And Max resolution |
+| 71 | input Triple branded and Max resolution |
+| 72 | quit Triple branded and Max resolution |
+| 73 | suspend Triple branded and Max resolution. |
+| 74 | updates Triple branded and Max resolution. |
