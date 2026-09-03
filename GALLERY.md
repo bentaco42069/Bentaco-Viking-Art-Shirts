@@ -52,7 +52,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #15 — Boobies Volva of Truth Icon
 <img src="images/gallery-15.jpg" width="100%">
 
-### #16 — Boobies
+### #16 — Viking Boobies Sign
 <img src="images/gallery-16.jpg" width="100%">
 
 ### #17 — Collection
