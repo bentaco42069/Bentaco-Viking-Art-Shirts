@@ -34,22 +34,22 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #9 — All Games
 <img src="images/gallery-09.jpg" width="100%">
 
-### #10 — Appearance Odin'S All Seeing Eye
+### #10 — Appearance Odin's All-Seeing Eye
 <img src="images/gallery-10.jpg" width="100%">
 
 ### #11 — Archive Downloader
 <img src="images/gallery-11.jpg" width="100%">
 
-### #12 — Back Up Os
+### #12 — Back Up OS
 <img src="images/gallery-12.jpg" width="100%">
 
-### #13 — Bentacos Ragnarok Bt Os Splash
+### #13 — Bentaco's RAGNAROK BTOS Splash
 <img src="images/gallery-13.jpg" width="100%">
 
 ### #14 — Blood Eagle Icon
 <img src="images/gallery-14.jpg" width="100%">
 
-### #15 — Boobies Volva Of Truth Icon
+### #15 — Boobies Volva of Truth Icon
 <img src="images/gallery-15.jpg" width="100%">
 
 ### #16 — Boobies
@@ -61,13 +61,13 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #18 — Controller
 <img src="images/gallery-18.jpg" width="100%">
 
-### #19 — Es Boot Screen
+### #19 — ES Boot Screen
 <img src="images/gallery-19.jpg" width="100%">
 
 ### #20 — Emulators
 <img src="images/gallery-20.jpg" width="100%">
 
-### #21 — Firefox Claude Ai Connector Pro
+### #21 — Firefox Claude AI Connector Pro
 <img src="images/gallery-21.jpg" width="100%">
 
 ### #22 — Favorites
@@ -76,7 +76,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #23 — File Manager
 <img src="images/gallery-23.jpg" width="100%">
 
-### #24 — Filter Games By Text
+### #24 — Filter Games by Text
 <img src="images/gallery-24.jpg" width="100%">
 
 ### #25 — Gallery
@@ -94,13 +94,13 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #29 — Info
 <img src="images/gallery-29.jpg" width="100%">
 
-### #30 — Install Rom Directories And Bios
+### #30 — Install ROM Directories and BIOS
 <img src="images/gallery-30.jpg" width="100%">
 
-### #31 — Install Ragnarok Over Emmc
+### #31 — Install RAGNAROK over eMMC
 <img src="images/gallery-31.jpg" width="100%">
 
-### #32 — Jump To The Game Beginning With The Letter
+### #32 — Jump to the Game Beginning with the Letter
 <img src="images/gallery-32.jpg" width="100%">
 
 ### #33 — Kodi
@@ -136,10 +136,10 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #43 — Plane Mode
 <img src="images/gallery-43.jpg" width="100%">
 
-### #44 — Restore Os
+### #44 — Restore OS
 <img src="images/gallery-44.jpg" width="100%">
 
-### #45 — Ragnarok'S Rage
+### #45 — RAGNAROK's Rage
 <img src="images/gallery-45.jpg" width="100%">
 
 ### #46 — Remove Files
@@ -148,22 +148,22 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #47 — Restart Frontend
 <img src="images/gallery-47.jpg" width="100%">
 
-### #48 — Retro Arc 64 Bit
+### #48 — Retro Arc 64-bit
 <img src="images/gallery-48.jpg" width="100%">
 
 ### #49 — Retro Arc Achievements
 <img src="images/gallery-49.jpg" width="100%">
 
-### #50 — Retroarc 32 Bit
+### #50 — Retro Arc 32-bit
 <img src="images/gallery-50.jpg" width="100%">
 
-### #51 — Retrorok Splash
+### #51 — RetroROK Splash
 <img src="images/gallery-51.jpg" width="100%">
 
-### #52 — Retrorok Icon
+### #52 — RetroROK Icon
 <img src="images/gallery-52.jpg" width="100%">
 
-### #53 — Ride Of The Valkyries
+### #53 — Ride of the Valkyries
 <img src="images/gallery-53.jpg" width="100%">
 
 ### #54 — Scrapper
@@ -172,37 +172,37 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #55 — Shutdown
 <img src="images/gallery-55.jpg" width="100%">
 
-### #56 — Sliders And Manual Control
+### #56 — Sliders and Manual Control
 <img src="images/gallery-56.jpg" width="100%">
 
-### #57 — Sort Games By
+### #57 — Sort Games by
 <img src="images/gallery-57.jpg" width="100%">
 
 ### #58 — Sound
 <img src="images/gallery-58.jpg" width="100%">
 
-### #59 — Sutor'S Flame
+### #59 — Sutor's Flame
 <img src="images/gallery-59.jpg" width="100%">
 
 ### #60 — System Settings
 <img src="images/gallery-60.jpg" width="100%">
 
-### #61 — Tv Calibrate
+### #61 — TV Calibrate
 <img src="images/gallery-61.jpg" width="100%">
 
-### #62 — Text Recognition Odin'S All Seeing Eye
+### #62 — Text Recognition Odin's All-Seeing Eye
 <img src="images/gallery-62.jpg" width="100%">
 
-### #63 — Thor The Calibrator Icon
+### #63 — Thor the Calibrator Icon
 <img src="images/gallery-63.jpg" width="100%">
 
-### #64 — Thor The Calibrator
+### #64 — Thor the Calibrator
 <img src="images/gallery-64.jpg" width="100%">
 
 ### #65 — Tools
 <img src="images/gallery-65.jpg" width="100%">
 
-### #66 — Ui
+### #66 — UI
 <img src="images/gallery-66.jpg" width="100%">
 
 ### #67 — User Manual
