@@ -25,208 +25,208 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #6 — Valkyrie Armor
 <img src="images/06-valkyrie-armor.jpg" width="100%">
 
-### #7 — Advanced System Options
+### #7 — The Great Forge
 <img src="images/gallery-07.jpg" width="100%">
 
-### #8 — Advanced Settings
+### #8 — Shield of the Wolf
 <img src="images/gallery-08.jpg" width="100%">
 
-### #9 — All Games
+### #9 — Raiders of the Open Sea
 <img src="images/gallery-09.jpg" width="100%">
 
-### #10 — Appearance Odin's All-Seeing Eye
+### #10 — Eye of the Hawk
 <img src="images/gallery-10.jpg" width="100%">
 
-### #11 — Archive Downloader
+### #11 — Return at Golden Dusk
 <img src="images/gallery-11.jpg" width="100%">
 
-### #12 — Back Up OS
+### #12 — The Golden Wyrm
 <img src="images/gallery-12.jpg" width="100%">
 
-### #13 — Bentaco's RAGNAROK BTOS Splash
+### #13 — Born of Fire
 <img src="images/gallery-13.jpg" width="100%">
 
-### #14 — Blood Eagle Icon
+### #14 — Blood Eagle
 <img src="images/gallery-14.jpg" width="100%">
 
-### #15 — Boobies Volva of Truth Icon
+### #15 — Völva of Truth
 <img src="images/gallery-15.jpg" width="100%">
 
 ### #16 — Viking Boobies Sign
 <img src="images/gallery-16.jpg" width="100%">
 
-### #17 — Collection
+### #17 — The Dragon's Hoard
 <img src="images/gallery-17.jpg" width="100%">
 
-### #18 — Controller
+### #18 — Warriors' Fireside
 <img src="images/gallery-18.jpg" width="100%">
 
-### #19 — ES Boot Screen
+### #19 — Crossed Axes
 <img src="images/gallery-19.jpg" width="100%">
 
-### #20 — Emulators
+### #20 — The Mead Hall
 <img src="images/gallery-20.jpg" width="100%">
 
-### #21 — Firefox Claude AI Connector Pro
+### #21 — The Fire Wolf
 <img src="images/gallery-21.jpg" width="100%">
 
-### #22 — Favorites
+### #22 — The Shieldmaiden's Command
 <img src="images/gallery-22.jpg" width="100%">
 
-### #23 — File Manager
+### #23 — The Rune-Keeper
 <img src="images/gallery-23.jpg" width="100%">
 
-### #24 — Filter Games by Text
+### #24 — Huginn's Tome
 <img src="images/gallery-24.jpg" width="100%">
 
-### #25 — Gallery
+### #25 — Hall of Heroes
 <img src="images/gallery-25.jpg" width="100%">
 
-### #26 — Game List View Style
+### #26 — Gates of Bifröst
 <img src="images/gallery-26.jpg" width="100%">
 
-### #27 — Game Settings
+### #27 — The Longhouse
 <img src="images/gallery-27.jpg" width="100%">
 
-### #28 — Hot Keys
+### #28 — The Seer's Table
 <img src="images/gallery-28.jpg" width="100%">
 
-### #29 — Info
+### #29 — Wisdom of the Elder
 <img src="images/gallery-29.jpg" width="100%">
 
-### #30 — Install ROM Directories and BIOS
+### #30 — The Golden Library
 <img src="images/gallery-30.jpg" width="100%">
 
-### #31 — Install RAGNAROK over eMMC
+### #31 — The Forgemaster
 <img src="images/gallery-31.jpg" width="100%">
 
-### #32 — Jump to the Game Beginning with the Letter
+### #32 — The Whispering Stones
 <img src="images/gallery-32.jpg" width="100%">
 
-### #33 — Kodi
+### #33 — Fireside Saga
 <img src="images/gallery-33.jpg" width="100%">
 
-### #34 — Last Played
+### #34 — The Last Warrior
 <img src="images/gallery-34.jpg" width="100%">
 
-### #35 — Library
+### #35 — The Hearth
 <img src="images/gallery-35.jpg" width="100%">
 
-### #36 — Media Player
+### #36 — Fire in the Sky
 <img src="images/gallery-36.jpg" width="100%">
 
-### #37 — Music Player
+### #37 — Dance Beneath the Tree
 <img src="images/gallery-37.jpg" width="100%">
 
-### #38 — Network
+### #38 — The Nine Realms
 <img src="images/gallery-38.jpg" width="100%">
 
-### #39 — Odin Icon
+### #39 — Mark of Odin
 <img src="images/gallery-39.jpg" width="100%">
 
-### #40 — Offline Update
+### #40 — Sparks of the Anvil
 <img src="images/gallery-40.jpg" width="100%">
 
-### #41 — Other Filters
+### #41 — Runes of Fate
 <img src="images/gallery-41.jpg" width="100%">
 
-### #42 — Performance Manager
+### #42 — Clash of Blades
 <img src="images/gallery-42.jpg" width="100%">
 
-### #43 — Plane Mode
+### #43 — Sky-Rider
 <img src="images/gallery-43.jpg" width="100%">
 
-### #44 — Restore OS
+### #44 — The Allfather's Throne
 <img src="images/gallery-44.jpg" width="100%">
 
-### #45 — RAGNAROK's Rage
+### #45 — Surtr's Wrath
 <img src="images/gallery-45.jpg" width="100%">
 
-### #46 — Remove Files
+### #46 — The Blazing Hall
 <img src="images/gallery-46.jpg" width="100%">
 
-### #47 — Restart Frontend
+### #47 — The Shieldmaiden War
 <img src="images/gallery-47.jpg" width="100%">
 
-### #48 — Retro Arc 64-bit
+### #48 — The Gilded Hall
 <img src="images/gallery-48.jpg" width="100%">
 
-### #49 — Retro Arc Achievements
+### #49 — The Dragon Queen
 <img src="images/gallery-49.jpg" width="100%">
 
-### #50 — Retro Arc 32-bit
+### #50 — Throne of the Jarl
 <img src="images/gallery-50.jpg" width="100%">
 
-### #51 — RetroROK Splash
+### #51 — Neon Valhalla
 <img src="images/gallery-51.jpg" width="100%">
 
-### #52 — RetroROK Icon
+### #52 — Retro Raider
 <img src="images/gallery-52.jpg" width="100%">
 
 ### #53 — Ride of the Valkyries
 <img src="images/gallery-53.jpg" width="100%">
 
-### #54 — Scrapper
+### #54 — Clash in the Snow
 <img src="images/gallery-54.jpg" width="100%">
 
-### #55 — Shutdown
+### #55 — The Allfather's Farewell
 <img src="images/gallery-55.jpg" width="100%">
 
-### #56 — Sliders and Manual Control
+### #56 — Odin's Command
 <img src="images/gallery-56.jpg" width="100%">
 
-### #57 — Sort Games by
+### #57 — The Shield Wall
 <img src="images/gallery-57.jpg" width="100%">
 
-### #58 — Sound
+### #58 — The War Horn
 <img src="images/gallery-58.jpg" width="100%">
 
-### #59 — Sutor's Flame
+### #59 — The Flame Giant
 <img src="images/gallery-59.jpg" width="100%">
 
-### #60 — System Settings
+### #60 — Beneath the World Tree
 <img src="images/gallery-60.jpg" width="100%">
 
-### #61 — TV Calibrate
+### #61 — The Seer's Vision
 <img src="images/gallery-61.jpg" width="100%">
 
-### #62 — Text Recognition Odin's All-Seeing Eye
+### #62 — The Rune Stone
 <img src="images/gallery-62.jpg" width="100%">
 
-### #63 — Thor the Calibrator Icon
+### #63 — Mjölnir
 <img src="images/gallery-63.jpg" width="100%">
 
-### #64 — Thor the Calibrator
+### #64 — Hammer of the Storm
 <img src="images/gallery-64.jpg" width="100%">
 
-### #65 — Tools
+### #65 — The Armory
 <img src="images/gallery-65.jpg" width="100%">
 
-### #66 — UI
+### #66 — Warrior's Crest
 <img src="images/gallery-66.jpg" width="100%">
 
-### #67 — User Manual
+### #67 — The Fallen Hero
 <img src="images/gallery-67.jpg" width="100%">
 
-### #68 — Valhalla Mode
+### #68 — Feast of Valhalla
 <img src="images/gallery-68.jpg" width="100%">
 
-### #69 — View Customization
+### #69 — The Torchlit Hall
 <img src="images/gallery-69.jpg" width="100%">
 
-### #70 — Viking Rage
+### #70 — Berserker's Fury
 <img src="images/gallery-70.jpg" width="100%">
 
-### #71 — Input
+### #71 — Council of the Ancients
 <img src="images/gallery-71.jpg" width="100%">
 
-### #72 — Quit
+### #72 — Fire on the Water
 <img src="images/gallery-72.jpg" width="100%">
 
-### #73 — Suspend
+### #73 — Bound for Valhalla
 <img src="images/gallery-73.jpg" width="100%">
 
-### #74 — Updates
+### #74 — The Homecoming
 <img src="images/gallery-74.jpg" width="100%">
 
 
