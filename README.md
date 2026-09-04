@@ -41,7 +41,7 @@ When you order, just tell me: **the design # · your size · shirt color · any 
 ### #5 — Viking Raiding Party
 <img src="images/05-viking-raiding-party.jpg" alt="Design 5" width="100%">
 
-### #6 — Valkyrie Armor
+### #6 — Valkyrie Armory
 <img src="images/06-valkyrie-armor.jpg" alt="Design 6" width="100%">
 
 <h2 align="center">🖼️ See All 74 Designs</h2>
