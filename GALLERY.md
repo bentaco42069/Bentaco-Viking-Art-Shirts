@@ -43,7 +43,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #12 — Odin Sleep
 <img src="images/gallery-12.jpg" width="100%">
 
-### #13 — Twilight of the Gods
+### #13 — RAGNARÖK
 <img src="images/gallery-13.jpg" width="100%">
 
 ### #14 — Blood Eagle
@@ -55,7 +55,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #16 — Viking Boobies Sign
 <img src="images/gallery-16.jpg" width="100%">
 
-### #17 — Fafnir's Hoard
+### #17 — Fafnir's Golden Hoard
 <img src="images/gallery-17.jpg" width="100%">
 
 ### #18 — Warriors' Fireside
@@ -88,10 +88,10 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #27 — The Longhouse
 <img src="images/gallery-27.jpg" width="100%">
 
-### #28 — Mímir's Well
+### #28 — The Family Gathering
 <img src="images/gallery-28.jpg" width="100%">
 
-### #29 — Wisdom of the Elder
+### #29 — The Wisdom of Mímir: Seedlings of Yggdrasil
 <img src="images/gallery-29.jpg" width="100%">
 
 ### #30 — The Golden Library
