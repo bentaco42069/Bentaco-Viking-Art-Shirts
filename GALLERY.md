@@ -49,7 +49,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #14 — Blood Eagle
 <img src="images/gallery-14.jpg" width="100%">
 
-### #15 — Bööbies the Völva of Truth
+### #15 — Bööbies the Völva of Trüth
 <img src="images/gallery-15.png" width="100%">
 
 ### #16 — Viking Boobies Sign
