@@ -28,22 +28,22 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #7 — The Great Forge
 <img src="images/gallery-07.jpg" width="100%">
 
-### #8 — Shield of the Wolf
+### #8 — Shield of Fenrir
 <img src="images/gallery-08.jpg" width="100%">
 
 ### #9 — Raiders of the Open Sea
 <img src="images/gallery-09.jpg" width="100%">
 
-### #10 — Eye of the Hawk
+### #10 — Loki the Shapeshifter
 <img src="images/gallery-10.jpg" width="100%">
 
-### #11 — Return at Golden Dusk
+### #11 — Return with the Plunder
 <img src="images/gallery-11.jpg" width="100%">
 
-### #12 — The Golden Wyrm
+### #12 — Odin Sleep
 <img src="images/gallery-12.jpg" width="100%">
 
-### #13 — Born of Fire
+### #13 — Twilight of the Gods
 <img src="images/gallery-13.jpg" width="100%">
 
 ### #14 — Blood Eagle
@@ -55,7 +55,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #16 — Viking Boobies Sign
 <img src="images/gallery-16.jpg" width="100%">
 
-### #17 — The Dragon's Hoard
+### #17 — Fafnir's Hoard
 <img src="images/gallery-17.jpg" width="100%">
 
 ### #18 — Warriors' Fireside
@@ -64,16 +64,16 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #19 — Crossed Axes
 <img src="images/gallery-19.jpg" width="100%">
 
-### #20 — The Mead Hall
+### #20 — The Birth of Mjölnir
 <img src="images/gallery-20.jpg" width="100%">
 
 ### #21 — The Fire Wolf
 <img src="images/gallery-21.jpg" width="100%">
 
-### #22 — The Shieldmaiden's Command
+### #22 — The Queen's Champion
 <img src="images/gallery-22.jpg" width="100%">
 
-### #23 — The Rune-Keeper
+### #23 — Odin's Scrolls
 <img src="images/gallery-23.jpg" width="100%">
 
 ### #24 — Huginn's Tome
@@ -88,7 +88,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #27 — The Longhouse
 <img src="images/gallery-27.jpg" width="100%">
 
-### #28 — The Seer's Table
+### #28 — Mímir's Well
 <img src="images/gallery-28.jpg" width="100%">
 
 ### #29 — Wisdom of the Elder
@@ -112,10 +112,10 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #35 — The Hearth
 <img src="images/gallery-35.jpg" width="100%">
 
-### #36 — Fire in the Sky
+### #36 — Eyes of the Allfather
 <img src="images/gallery-36.jpg" width="100%">
 
-### #37 — Dance Beneath the Tree
+### #37 — The Ragnarök Blót
 <img src="images/gallery-37.jpg" width="100%">
 
 ### #38 — The Nine Realms
