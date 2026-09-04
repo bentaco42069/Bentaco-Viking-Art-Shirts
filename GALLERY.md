@@ -193,10 +193,10 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #62 — The Apprentice
 <img src="images/gallery-62.jpg" width="100%">
 
-### #63 — Hammer of Time
+### #63 — Thor the Calibrator
 <img src="images/gallery-63.jpg" width="100%">
 
-### #64 — Thor's Ward
+### #64 — Words of Power
 <img src="images/gallery-64.jpg" width="100%">
 
 ### #65 — The Shieldmaiden's Spoils
