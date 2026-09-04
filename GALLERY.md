@@ -115,37 +115,37 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #36 — Eyes of the Allfather
 <img src="images/gallery-36.jpg" width="100%">
 
-### #37 — The Ragnarök Blót
+### #37 — The Ragnarök Festival
 <img src="images/gallery-37.jpg" width="100%">
 
 ### #38 — The Nine Realms
 <img src="images/gallery-38.jpg" width="100%">
 
-### #39 — Mark of Odin
+### #39 — Odin's All-Seeing Eye
 <img src="images/gallery-39.jpg" width="100%">
 
-### #40 — Sparks of the Anvil
+### #40 — The Rune Master
 <img src="images/gallery-40.jpg" width="100%">
 
 ### #41 — Runes of Fate
 <img src="images/gallery-41.jpg" width="100%">
 
-### #42 — Clash of Blades
+### #42 — The Warrior King and Queen
 <img src="images/gallery-42.jpg" width="100%">
 
 ### #43 — Sky-Rider
 <img src="images/gallery-43.jpg" width="100%">
 
-### #44 — The Allfather's Throne
+### #44 — Odin Awakened
 <img src="images/gallery-44.jpg" width="100%">
 
-### #45 — Surtr's Wrath
+### #45 — Ragnarök's Rage
 <img src="images/gallery-45.jpg" width="100%">
 
 ### #46 — The Blazing Hall
 <img src="images/gallery-46.jpg" width="100%">
 
-### #47 — The Shieldmaiden War
+### #47 — The Battle of Valhalla
 <img src="images/gallery-47.jpg" width="100%">
 
 ### #48 — The Gilded Hall
@@ -166,16 +166,16 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #53 — Ride of the Valkyries
 <img src="images/gallery-53.jpg" width="100%">
 
-### #54 — Clash in the Snow
+### #54 — The Scrapper
 <img src="images/gallery-54.jpg" width="100%">
 
-### #55 — The Allfather's Farewell
+### #55 — The Doors of Valhalla
 <img src="images/gallery-55.jpg" width="100%">
 
 ### #56 — Odin's Command
 <img src="images/gallery-56.jpg" width="100%">
 
-### #57 — The Shield Wall
+### #57 — Shields of the Fallen
 <img src="images/gallery-57.jpg" width="100%">
 
 ### #58 — The War Horn
@@ -184,22 +184,22 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #59 — The Flame Giant
 <img src="images/gallery-59.jpg" width="100%">
 
-### #60 — Beneath the World Tree
+### #60 — The Three Völvas
 <img src="images/gallery-60.jpg" width="100%">
 
 ### #61 — The Seer's Vision
 <img src="images/gallery-61.jpg" width="100%">
 
-### #62 — The Rune Stone
+### #62 — The Apprentice
 <img src="images/gallery-62.jpg" width="100%">
 
-### #63 — Mjölnir
+### #63 — Hammer of Time
 <img src="images/gallery-63.jpg" width="100%">
 
-### #64 — Hammer of the Storm
+### #64 — Thor's Ward
 <img src="images/gallery-64.jpg" width="100%">
 
-### #65 — The Armory
+### #65 — The Shieldmaiden's Spoils
 <img src="images/gallery-65.jpg" width="100%">
 
 ### #66 — Warrior's Crest
@@ -214,19 +214,19 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #69 — The Torchlit Hall
 <img src="images/gallery-69.jpg" width="100%">
 
-### #70 — Berserker's Fury
+### #70 — Viking Rage
 <img src="images/gallery-70.jpg" width="100%">
 
-### #71 — Council of the Ancients
+### #71 — The Völva's Wisdom
 <img src="images/gallery-71.jpg" width="100%">
 
-### #72 — Fire on the Water
+### #72 — A Warrior's Farewell
 <img src="images/gallery-72.jpg" width="100%">
 
-### #73 — Bound for Valhalla
+### #73 — The Valkyrie's Rest
 <img src="images/gallery-73.jpg" width="100%">
 
-### #74 — The Homecoming
+### #74 — The Monastery Raid
 <img src="images/gallery-74.jpg" width="100%">
 
 
