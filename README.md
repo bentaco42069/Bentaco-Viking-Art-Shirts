@@ -32,7 +32,7 @@ When you order, just tell me: **the design # · your size · shirt color · any 
 ### #2 — Odin the All-Seeing
 <img src="images/02-odins-all-seeing-eye.jpg" alt="Design 2" width="100%">
 
-### #3 — Ragnarök Reborn
+### #3 — RAGNARÖK Reborn
 <img src="images/03-restart-system.jpg" alt="Design 3" width="100%">
 
 ### #4 — Thor's Thunderous Fury
