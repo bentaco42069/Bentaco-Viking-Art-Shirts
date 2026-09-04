@@ -13,7 +13,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #2 — Odin the All-Seeing
 <img src="images/02-odins-all-seeing-eye.jpg" width="100%">
 
-### #3 — Ragnarök Reborn
+### #3 — RAGNARÖK Reborn
 <img src="images/03-restart-system.jpg" width="100%">
 
 ### #4 — Thor's Thunderous Fury
@@ -115,7 +115,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #36 — Eyes of the Allfather
 <img src="images/gallery-36.jpg" width="100%">
 
-### #37 — The Ragnarök Festival
+### #37 — The RAGNARÖK Festival
 <img src="images/gallery-37.jpg" width="100%">
 
 ### #38 — The Nine Realms
@@ -139,7 +139,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #44 — Odin Awakened
 <img src="images/gallery-44.jpg" width="100%">
 
-### #45 — Ragnarök's Rage
+### #45 — RAGNARÖK's Rage
 <img src="images/gallery-45.jpg" width="100%">
 
 ### #46 — The Blazing Hall
@@ -196,7 +196,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #63 — Thor the Calibrator
 <img src="images/gallery-63.jpg" width="100%">
 
-### #64 — Words of Power
+### #64 — The Forging of RAGNARÖK
 <img src="images/gallery-64.jpg" width="100%">
 
 ### #65 — The Shieldmaiden's Spoils
