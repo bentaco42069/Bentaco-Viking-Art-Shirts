@@ -22,7 +22,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #5 — Viking Raiding Party
 <img src="images/05-viking-raiding-party.jpg" width="100%">
 
-### #6 — Valkyrie Armor
+### #6 — Valkyrie Armory
 <img src="images/06-valkyrie-armor.jpg" width="100%">
 
 ### #7 — The Great Forge
@@ -49,8 +49,8 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #14 — Blood Eagle
 <img src="images/gallery-14.jpg" width="100%">
 
-### #15 — Völva of Truth
-<img src="images/gallery-15.jpg" width="100%">
+### #15 — Bööbies the Völva of Truth
+<img src="images/gallery-15.png" width="100%">
 
 ### #16 — Viking Boobies Sign
 <img src="images/gallery-16.jpg" width="100%">
