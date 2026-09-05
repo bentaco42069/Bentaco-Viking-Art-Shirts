@@ -73,7 +73,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ### #22 — The Queen's Champion
 <img src="images/gallery-22.jpg" width="100%">
 
-### #23 — Odin's Scrolls
+### #23 — The Allfather's Decree
 <img src="images/gallery-23.jpg" width="100%">
 
 ### #24 — Huginn's Tome
