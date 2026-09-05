@@ -7,7 +7,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 
 ---
 
-### #1 — Odin & Thor: Storm Surf
+### #1 — Surfing with the Serpent
 <img src="images/01-header-odin-thor-surfing.jpg" width="100%">
 
 ### #2 — Odin the All-Seeing
