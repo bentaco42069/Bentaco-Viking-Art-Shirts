@@ -7,7 +7,7 @@ Browse the designs below, then <b>message me right here on GitHub to order.</b>
 </p>
 
 <p align="center">
-  <img src="images/01-header-odin-thor-surfing.jpg" alt="Odin and Thor - Storm Surf" width="100%">
+  <img src="images/01-header-odin-thor-surfing.png" alt="Surfing with the Serpent" width="100%">
 </p>
 
 <h2 align="center">🛒 Order a Shirt</h2>
