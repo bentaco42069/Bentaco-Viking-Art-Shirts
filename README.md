@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ BENTACO INC. ⚔️</h1>
+<h1 align="center">⚔️ Bentacö's ⚔️</h1>
 <h3 align="center">Viking Art You Can Wear</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ Browse the designs below, then <b>message me right here on GitHub to order.</b>
 <h2 align="center">🛒 Order a Shirt</h2>
 
 <p align="center">
-  <a href="https://github.com/bentaco42069/Bentaco-Viking-Art-Shirts/issues/new?title=Shirt%20Order&labels=order&body=Design%20number%3A%0ASize%3A%0AColor%3A%0ACustomization%20if%20any%3A%0AHow%20to%20reach%20you%3A">
+  <a href="https://github.com/bentaco42069/Bentacos-Viking-Art-Shirts/issues/new?title=Shirt%20Order&labels=order&body=Design%20number%3A%0ASize%3A%0AColor%3A%0ACustomization%20if%20any%3A%0AHow%20to%20reach%20you%3A">
   <b>📩 &nbsp; CLICK HERE TO ORDER &nbsp; →</b>
   </a>
 </p>
@@ -81,5 +81,5 @@ Shirts come in your choice of color — just tell me which one when you order.
 ---
 
 <p align="center"><sub>
-© BENTACO INC. — every design is original artwork. The images here are watermarked; please don't copy, screenshot, or reprint them. Want one? Message me and get the real thing. 🤘
+© Bentacö's — every design is original artwork. The images here are watermarked; please don't copy, screenshot, or reprint them. Want one? Message me and get the real thing. 🤘
 </sub></p>
