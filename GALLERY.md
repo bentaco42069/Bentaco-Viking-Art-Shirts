@@ -8,7 +8,7 @@ Every design, numbered. See one you want? **[📩 Message me to order](https://g
 ---
 
 ### #1 — Surfing with the Serpent
-<img src="images/01-header-odin-thor-surfing.jpg" width="100%">
+<img src="images/01-header-odin-thor-surfing.png" width="100%">
 
 ### #2 — Odin the All-Seeing
 <img src="images/02-odins-all-seeing-eye.jpg" width="100%">
