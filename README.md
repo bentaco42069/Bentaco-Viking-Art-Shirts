@@ -26,7 +26,7 @@ When you order, just tell me: **the design # · your size · shirt color · any 
 
 ## ⭐ Featured Designs
 
-### #1 — Odin &amp; Thor: Storm Surf
+### #1 — Surfing with the Serpent
 *(the banner up top)*
 
 ### #2 — Odin the All-Seeing
